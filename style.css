@@ -1,0 +1,12 @@
+h1,
+h3 {
+    background-color: #008080;
+}
+
+p {
+    color: #2E8B57;
+}
+
+h1 + h3 {
+    color: #9ACD32;
+}
